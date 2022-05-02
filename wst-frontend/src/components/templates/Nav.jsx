@@ -10,22 +10,22 @@ export default props =>
               <i className="fa fa-home"></i> Inicio
               </Link>
               <Link to="/">
-              <i className="fa fa-home"></i> Clientes
+              <i className="fa fa-list"></i> Clientes
               </Link>
               <Link to="/products">
               <i className="fa fa-product-hunt"> </i> Produtos
-              </Link>
-              <Link to="/products">
-              <i className="fa fa-product-hunt"> </i> Usuarios
-              </Link>
+              </Link>             
               <Link to="/">
-              <i className="fa fa-home"></i> Recursos Humanos
+              <i className="fa fa-users "></i> Recursos Humanos
               </Link>
               <Link to="/products">
-              <i className="fa fa-product-hunt"> </i> Fornecedores
+              <i className="fa fa-handshake-o"> </i> Fornecedores
               </Link>
               <Link to="/products">
-              <i className="fa fa-product-hunt"> </i> Nota Fiscal
+              <i className="fa fa-file-text-o"> </i> Nota Fiscal
+              </Link>
+              <Link to="/products">
+              <i className="fa fa-user-circle-o"> </i> Usuarios
               </Link>
               
 
